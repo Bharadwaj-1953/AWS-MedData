@@ -1,0 +1,20 @@
+Ibuprofen : Pain, Inflammation  
+Amoxicillin : Bacterial Infections  
+Loratadine : Allergies  
+Metformin : Type 2 Diabetes  
+Aspirin : Pain, Inflammation, Blood Thinning  
+Cetirizine : Hay Fever, Allergies  
+Hydrochlorothiazide : High Blood Pressure  
+Albuterol : Asthma  
+Prednisone : Inflammation, Autoimmune Disorders  
+Simvastatin : Cholesterol Management  
+Omeprazole : Acid Reflux, GERD  
+Levothyroxine : Hypothyroidism  
+Ciprofloxacin : Bacterial Infections  
+Tramadol : Pain Management  
+Fluoxetine : Depression, Anxiety  
+Diazepam : Anxiety, Muscle Spasms  
+Tamsulosin : Benign Prostatic Hyperplasia (BPH)  
+Furosemide : Edema, High Blood Pressure  
+Clindamycin : Bacterial Infections  
+Lisinopril : High Blood Pressure, Heart Failure
